@@ -1,0 +1,12 @@
+setcps 1
+
+d1 $ density (choose [8, 8, 8, 16]) $ s "odx:0" # pan (rand) # gain 0.7
+d1 $ silence
+
+d2 $ stack[s "ifdrums:0*2"]--, s "[auto:7 ~ auto:7 ~]/2"]
+d2 $ silence
+
+d3 $ density 8 $ randcat[s "glitch:0", s "glitch2:0", s "~"] # n (irand 8)
+d3 $ silence
+
+hush
