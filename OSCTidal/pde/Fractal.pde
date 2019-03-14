@@ -1,5 +1,5 @@
 /*
- * 01: Menger sponge
+ * 02: Menger sponge
  *
  * The MIT License (MIT)
  *
