@@ -11,6 +11,7 @@ About visuals:
 * key ‘1’ &rarr; 01 FourStripes: generating four stripes
 * key ‘2’ &rarr; 02 Fractal: Menger sponge
 * key ‘3’ &rarr; 03 SpreadExplosion: generating time-explosive object
+* key ‘0’ &rarr; Simultaneous showing of the above visual
 
 ## Demo movie
 OSCTidal - demo YouTube  
