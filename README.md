@@ -1,4 +1,7 @@
 # OSCTidal
+
+![OSCTidal](/preview/OSCTidal.png)
+
 Using languages: Processing, SuperCollider, TidalCycles
 
 Realtime synchronization between video and sound by Open Sound Control
