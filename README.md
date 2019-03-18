@@ -14,7 +14,7 @@ About visuals:
 * key ‘0’ &rarr; Simultaneous showing of the above visuals
 
 ## Demo movie
-OSCTidal - demo YouTube  
+OSCTidal - demo (YouTube)  
 <https://www.youtube.com/watch?v=ksqFgkCHrPE>
 
 ## About license
