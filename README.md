@@ -15,7 +15,7 @@ About visuals:
 
 ## Demo movie
 OSCTidal - demo (YouTube)  
-<https://www.youtube.com/watch?v=ksqFgkCHrPE>
+<https://youtu.be/IBHPNMzhsOM>
 
 ## About license
 This repository has MIT license  
